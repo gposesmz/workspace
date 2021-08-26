@@ -31,6 +31,5 @@ public class Main {
 		int top = 3;
 		System.out.println("------------------------------- TOP " + top + " -------------------------------");
 		ejecucion.mostrarTopDatos(datos, top);
-		
 	}
 }
